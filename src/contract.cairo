@@ -1,7 +1,7 @@
 #[starknet::contract]
 mod SvgPoc {
-    use nft_svg_onchain_poc::interfaces::erc721::IERC721;
-    use nft_svg_onchain_poc::svg::image::generate_svg;
+    //use nft_svg_onchain_poc::interfaces::erc721::IERC721;
+    use nicera_svg_poc::svg::image::generate_svg;
     use starknet::ContractAddress;
     use starknet::get_caller_address;
     use zeroable::Zeroable;
@@ -62,8 +62,9 @@ mod SvgPoc {
         self._owner.write(get_caller_address());
     }
 
+    #[generate_trait]
     #[external(v0)]
-    impl SvgPoc of IERC721<ContractState> {
+    impl SvgPocImpl of IERC721 {
         fn name(self: @ContractState) -> felt252 {
             'nicera_svg_poc'
         }
