@@ -1,0 +1,293 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-0.2 -0.2 9.4 7.4" stroke="#1B2D37" stroke-width=".4"
+    stroke-linecap="round">
+    <rect width="9" height="7" fill="#FAE" />
+    <line x1="1" y1="1" x2="1" y2="1" stroke="red" opacity="0.9"></line>
+    <line x1="1" y1="1" x2="2" y2="2" opacity="0.75">
+        <animate attributeName="x2" from="2" to="2" begin="1s" dur="9s" values="2;2;2;1;0;0;0;1;2;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+        <animate attributeName="y2" from="2" to="2" begin="1s" dur="9s" values="2;1;0;0;0;1;2;2;2;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+    </line>
+    <line x1="3" y1="1" x2="3" y2="1" stroke="red" opacity="0.9"></line>
+    <line x1="3" y1="1" x2="4" y2="2" opacity="0.75">
+        <animate attributeName="x2" from="4" to="4" begin="1s" dur="9s" values="4;4;4;3;2;2;2;3;4;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+        <animate attributeName="y2" from="2" to="2" begin="1s" dur="9s" values="2;1;0;0;0;1;2;2;2;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+    </line>
+    <line x1="5" y1="1" x2="5" y2="1" stroke="red" opacity="0.9"></line>
+    <line x1="5" y1="1" x2="6" y2="2" opacity="0.75">
+        <animate attributeName="x2" from="6" to="6" begin="1s" dur="9s" values="6;6;6;5;4;4;4;5;6;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+        <animate attributeName="y2" from="2" to="2" begin="1s" dur="9s" values="2;1;0;0;0;1;2;2;2;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+    </line>
+    <line x1="7" y1="1" x2="7" y2="1" stroke="red" opacity="0.9"></line>
+    <line x1="7" y1="1" x2="7" y2="2" opacity="0.75">
+        <animate attributeName="x2" from="7" to="7" begin="1s" dur="9s" values="7;8;8;8;7;6;6;6;7;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+        <animate attributeName="y2" from="2" to="2" begin="1s" dur="9s" values="2;2;1;0;0;0;1;2;2;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+    </line>
+    <line x1="8" y1="1" x2="8" y2="1" stroke="red" opacity="0.9"></line>
+    <line x1="8" y1="1" x2="7" y2="2" opacity="0.75">
+        <animate attributeName="x2" from="7" to="7" begin="1s" dur="9s" values="7;8;9;9;9;8;7;7;7;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+        <animate attributeName="y2" from="2" to="2" begin="1s" dur="9s" values="2;2;2;1;0;0;0;1;2;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+    </line>
+    <line x1="1" y1="2" x2="1" y2="2" stroke="red" opacity="0.9"></line>
+    <line x1="1" y1="2" x2="2" y2="3" opacity="0.75">
+        <animate attributeName="x2" from="2" to="2" begin="1s" dur="9s" values="2;2;2;1;0;0;0;1;2;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+        <animate attributeName="y2" from="3" to="3" begin="1s" dur="9s" values="3;2;1;1;1;2;3;3;3;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+    </line>
+    <line x1="2" y1="2" x2="2" y2="2" stroke="red" opacity="0.9"></line>
+    <line x1="2" y1="2" x2="1" y2="2" opacity="0.75">
+        <animate attributeName="x2" from="1" to="1" begin="1s" dur="9s" values="1;1;2;3;3;3;2;1;1;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+        <animate attributeName="y2" from="2" to="2" begin="1s" dur="9s" values="2;3;3;3;2;1;1;1;2;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+    </line>
+    <line x1="3" y1="2" x2="3" y2="2" stroke="red" opacity="0.9"></line>
+    <line x1="3" y1="2" x2="4" y2="3" opacity="0.75">
+        <animate attributeName="x2" from="4" to="4" begin="1s" dur="9s" values="4;4;4;3;2;2;2;3;4;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+        <animate attributeName="y2" from="3" to="3" begin="1s" dur="9s" values="3;2;1;1;1;2;3;3;3;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+    </line>
+    <line x1="5" y1="2" x2="5" y2="2" stroke="red" opacity="0.9"></line>
+    <line x1="5" y1="2" x2="6" y2="3" opacity="0.75">
+        <animate attributeName="x2" from="6" to="6" begin="1s" dur="9s" values="6;6;6;5;4;4;4;5;6;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+        <animate attributeName="y2" from="3" to="3" begin="1s" dur="9s" values="3;2;1;1;1;2;3;3;3;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+    </line>
+    <line x1="3" y1="3" x2="3" y2="3" stroke="red" opacity="0.9"></line>
+    <line x1="3" y1="3" x2="2" y2="3" opacity="0.75">
+        <animate attributeName="x2" from="2" to="2" begin="1s" dur="9s" values="2;2;3;4;4;4;3;2;2;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+        <animate attributeName="y2" from="3" to="3" begin="1s" dur="9s" values="3;4;4;4;3;2;2;2;3;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+    </line>
+    <line x1="7" y1="3" x2="7" y2="3" stroke="red" opacity="0.9"></line>
+    <line x1="7" y1="3" x2="6" y2="3" opacity="0.75">
+        <animate attributeName="x2" from="6" to="6" begin="1s" dur="9s" values="6;6;7;8;8;8;7;6;6;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+        <animate attributeName="y2" from="3" to="3" begin="1s" dur="9s" values="3;4;4;4;3;2;2;2;3;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+    </line>
+    <line x1="8" y1="3" x2="8" y2="3" stroke="red" opacity="0.9"></line>
+    <line x1="8" y1="3" x2="7" y2="4" opacity="0.75">
+        <animate attributeName="x2" from="7" to="7" begin="1s" dur="9s" values="7;8;9;9;9;8;7;7;7;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+        <animate attributeName="y2" from="4" to="4" begin="1s" dur="9s" values="4;4;4;3;2;2;2;3;4;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+    </line>
+    <line x1="1" y1="4" x2="1" y2="4" stroke="red" opacity="0.9"></line>
+    <line x1="1" y1="4" x2="2" y2="5" opacity="0.75">
+        <animate attributeName="x2" from="2" to="2" begin="1s" dur="9s" values="2;2;2;1;0;0;0;1;2;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+        <animate attributeName="y2" from="5" to="5" begin="1s" dur="9s" values="5;4;3;3;3;4;5;5;5;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+    </line>
+    <line x1="2" y1="4" x2="2" y2="4" stroke="red" opacity="0.9"></line>
+    <line x1="2" y1="4" x2="1" y2="5" opacity="0.75">
+        <animate attributeName="x2" from="1" to="1" begin="1s" dur="9s" values="1;2;3;3;3;2;1;1;1;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+        <animate attributeName="y2" from="5" to="5" begin="1s" dur="9s" values="5;5;5;4;3;3;3;4;5;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+    </line>
+    <line x1="3" y1="4" x2="3" y2="4" stroke="red" opacity="0.9"></line>
+    <line x1="3" y1="4" x2="2" y2="5" opacity="0.75">
+        <animate attributeName="x2" from="2" to="2" begin="1s" dur="9s" values="2;3;4;4;4;3;2;2;2;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+        <animate attributeName="y2" from="5" to="5" begin="1s" dur="9s" values="5;5;5;4;3;3;3;4;5;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+    </line>
+    <line x1="4" y1="4" x2="4" y2="4" stroke="red" opacity="0.9"></line>
+    <line x1="4" y1="4" x2="5" y2="5" opacity="0.75">
+        <animate attributeName="x2" from="5" to="5" begin="1s" dur="9s" values="5;5;5;4;3;3;3;4;5;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+        <animate attributeName="y2" from="5" to="5" begin="1s" dur="9s" values="5;4;3;3;3;4;5;5;5;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+    </line>
+    <line x1="5" y1="4" x2="5" y2="4" stroke="red" opacity="0.9"></line>
+    <line x1="5" y1="4" x2="4" y2="5" opacity="0.75">
+        <animate attributeName="x2" from="4" to="4" begin="1s" dur="9s" values="4;5;6;6;6;5;4;4;4;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+        <animate attributeName="y2" from="5" to="5" begin="1s" dur="9s" values="5;5;5;4;3;3;3;4;5;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+    </line>
+    <line x1="6" y1="4" x2="6" y2="4" stroke="red" opacity="0.9"></line>
+    <line x1="6" y1="4" x2="5" y2="5" opacity="0.75">
+        <animate attributeName="x2" from="5" to="5" begin="1s" dur="9s" values="5;6;7;7;7;6;5;5;5;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+        <animate attributeName="y2" from="5" to="5" begin="1s" dur="9s" values="5;5;5;4;3;3;3;4;5;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+    </line>
+    <line x1="7" y1="4" x2="7" y2="4" stroke="red" opacity="0.9"></line>
+    <line x1="7" y1="4" x2="8" y2="3" opacity="0.75">
+        <animate attributeName="x2" from="8" to="8" begin="1s" dur="9s" values="8;7;6;6;6;7;8;8;8;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+        <animate attributeName="y2" from="3" to="3" begin="1s" dur="9s" values="3;3;3;4;5;5;5;4;3;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+    </line>
+    <line x1="8" y1="4" x2="8" y2="4" stroke="red" opacity="0.9"></line>
+    <line x1="8" y1="4" x2="9" y2="5" opacity="0.75">
+        <animate attributeName="x2" from="9" to="9" begin="1s" dur="9s" values="9;9;9;8;7;7;7;8;9;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+        <animate attributeName="y2" from="5" to="5" begin="1s" dur="9s" values="5;4;3;3;3;4;5;5;5;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+    </line>
+    <line x1="1" y1="5" x2="1" y2="5" stroke="red" opacity="0.9"></line>
+    <line x1="1" y1="5" x2="2" y2="6" opacity="0.75">
+        <animate attributeName="x2" from="2" to="2" begin="1s" dur="9s" values="2;2;2;1;0;0;0;1;2;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+        <animate attributeName="y2" from="6" to="6" begin="1s" dur="9s" values="6;5;4;4;4;5;6;6;6;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+    </line>
+    <line x1="2" y1="5" x2="2" y2="5" stroke="red" opacity="0.9"></line>
+    <line x1="2" y1="5" x2="1" y2="6" opacity="0.75">
+        <animate attributeName="x2" from="1" to="1" begin="1s" dur="9s" values="1;2;3;3;3;2;1;1;1;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+        <animate attributeName="y2" from="6" to="6" begin="1s" dur="9s" values="6;6;6;5;4;4;4;5;6;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+    </line>
+    <line x1="3" y1="5" x2="3" y2="5" stroke="red" opacity="0.9"></line>
+    <line x1="3" y1="5" x2="2" y2="6" opacity="0.75">
+        <animate attributeName="x2" from="2" to="2" begin="1s" dur="9s" values="2;3;4;4;4;3;2;2;2;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+        <animate attributeName="y2" from="6" to="6" begin="1s" dur="9s" values="6;6;6;5;4;4;4;5;6;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+    </line>
+    <line x1="4" y1="5" x2="4" y2="5" stroke="red" opacity="0.9"></line>
+    <line x1="4" y1="5" x2="5" y2="6" opacity="0.75">
+        <animate attributeName="x2" from="5" to="5" begin="1s" dur="9s" values="5;5;5;4;3;3;3;4;5;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+        <animate attributeName="y2" from="6" to="6" begin="1s" dur="9s" values="6;5;4;4;4;5;6;6;6;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+    </line>
+    <line x1="5" y1="5" x2="5" y2="5" stroke="red" opacity="0.9"></line>
+    <line x1="5" y1="5" x2="5" y2="4" opacity="0.75">
+        <animate attributeName="x2" from="5" to="5" begin="1s" dur="9s" values="5;4;4;4;5;6;6;6;5;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+        <animate attributeName="y2" from="4" to="4" begin="1s" dur="9s" values="4;4;5;6;6;6;5;4;4;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+    </line>
+    <line x1="7" y1="5" x2="7" y2="5" stroke="red" opacity="0.9"></line>
+    <line x1="7" y1="5" x2="6" y2="4" opacity="0.75">
+        <animate attributeName="x2" from="6" to="6" begin="1s" dur="9s" values="6;6;6;7;8;8;8;7;6;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+        <animate attributeName="y2" from="4" to="4" begin="1s" dur="9s" values="4;5;6;6;6;5;4;4;4;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+    </line>
+    <line x1="8" y1="5" x2="8" y2="5" stroke="red" opacity="0.9"></line>
+    <line x1="8" y1="5" x2="7" y2="6" opacity="0.75">
+        <animate attributeName="x2" from="7" to="7" begin="1s" dur="9s" values="7;8;9;9;9;8;7;7;7;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+        <animate attributeName="y2" from="6" to="6" begin="1s" dur="9s" values="6;6;6;5;4;4;4;5;6;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+    </line>
+    <line x1="2" y1="6" x2="2" y2="6" stroke="red" opacity="0.9"></line>
+    <line x1="2" y1="6" x2="1" y2="7" opacity="0.75">
+        <animate attributeName="x2" from="1" to="1" begin="1s" dur="9s" values="1;2;3;3;3;2;1;1;1;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+        <animate attributeName="y2" from="7" to="7" begin="1s" dur="9s" values="7;7;7;6;5;5;5;6;7;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+    </line>
+    <line x1="3" y1="6" x2="3" y2="6" stroke="red" opacity="0.9"></line>
+    <line x1="3" y1="6" x2="2" y2="7" opacity="0.75">
+        <animate attributeName="x2" from="2" to="2" begin="1s" dur="9s" values="2;3;4;4;4;3;2;2;2;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+        <animate attributeName="y2" from="7" to="7" begin="1s" dur="9s" values="7;7;7;6;5;5;5;6;7;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+    </line>
+    <line x1="6" y1="6" x2="6" y2="6" stroke="red" opacity="0.9"></line>
+    <line x1="6" y1="6" x2="5" y2="6" opacity="0.75">
+        <animate attributeName="x2" from="5" to="5" begin="1s" dur="9s" values="5;5;6;7;7;7;6;5;5;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+        <animate attributeName="y2" from="6" to="6" begin="1s" dur="9s" values="6;7;7;7;6;5;5;5;6;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+    </line>
+    <line x1="7" y1="6" x2="7" y2="6" stroke="red" opacity="0.9"></line>
+    <line x1="7" y1="6" x2="6" y2="5" opacity="0.75">
+        <animate attributeName="x2" from="6" to="6" begin="1s" dur="9s" values="6;6;6;7;8;8;8;7;6;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+        <animate attributeName="y2" from="5" to="5" begin="1s" dur="9s" values="5;6;7;7;7;6;5;5;5;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+    </line>
+    <line x1="8" y1="6" x2="8" y2="6" stroke="red" opacity="0.9"></line>
+    <line x1="8" y1="6" x2="7" y2="5" opacity="0.75">
+        <animate attributeName="x2" from="7" to="7" begin="1s" dur="9s" values="7;7;7;8;9;9;9;8;7;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+        <animate attributeName="y2" from="5" to="5" begin="1s" dur="9s" values="5;6;7;7;7;6;5;5;5;"
+            keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1;0.1 0.8 0.2 1"
+            keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" calcMode="spline" repeatCount="indefinite" />
+    </line>
+</svg>
+<!--N1C3R4-L485-->
